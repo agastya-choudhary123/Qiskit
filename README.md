@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @agastya-choudhary123
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects throughout my time here
-- 📫 How to reach me --> agastya.r.choudhary@gmail.com
+- Hi, I’m Agastya Choudhary, a freshman computer science major on the machine learning track at the University of Maryland, College Park.
+- I’m interested in machine learning, artificial intelligence, and quantitative finance/trading.
+- I'm looking for more experience in the industries listed above.
+- How to reach me --> +1 (224) 292-8589 or agastya.r.choudhary@gmail.com 
 
 <!---
 agastya-choudhary123/agastya-choudhary123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
